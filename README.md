@@ -28,4 +28,5 @@ Returns meaning or 'Unknown' if not in dictionary
 ```
 print(dct.lookup('said'))
 ```
+#### Output: 
 imp. & p. p. of Say.\n\nbefore-mentioned; already spoken of or specified; aforesaid; -- used chiefly in legal style.
