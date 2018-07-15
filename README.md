@@ -25,7 +25,7 @@ Returns number of words in dictionary
 Returns meaning or 'Unknown' if not in dictionary
 
 ## Example:
-'''
->>>print(dct.lookup('said'))
-'''
+```
+print(dct.lookup('said'))
+```
 imp. & p. p. of Say.\n\nbefore-mentioned; already spoken of or specified; aforesaid; -- used chiefly in legal style.
