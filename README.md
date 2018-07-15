@@ -1,0 +1,2 @@
+# PyOffDict
+Offline Python Dictionary
