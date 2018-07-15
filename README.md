@@ -9,7 +9,7 @@ Based on Webster's Unabridged English Dictionary
 Data Taken from https://github.com/matthewreagan/WebstersEnglishDictionary
 
 ## Usage:
-1. [Download](https://github.com/sprtkd/PyOffDict/archive/master.zip) this Repo and extract into your project.
+1. [Download](https://github.com/sprtkd/PyOffDict/archive/master.zip) this Repo and extract into your project as PyOffDict.
 2. Example use:
 ```
 from PyOffDict.pyoffdict import Dictionary
@@ -24,4 +24,8 @@ Returns number of words in dictionary
 ### lookup(word)
 Returns meaning or 'Unknown' if not in dictionary
 
-
+## Example:
+'''
+>>>print(dct.lookup('said'))
+'''
+imp. & p. p. of Say.\n\nbefore-mentioned; already spoken of or specified; aforesaid; -- used chiefly in legal style.
